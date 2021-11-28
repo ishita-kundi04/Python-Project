@@ -1,0 +1,40 @@
+{
+ "Students": [
+  {
+   "Rollno": "1001",
+   "Name": "Rahul Mishra",
+   "Gender": "Male",
+   "address": "Delhi",
+   "Phone no": "9445233456",
+   "Batch": " Batch 2020",
+   "Hostel": true
+  },
+  {
+   "Rollno": "1002",
+   "Name": "Mani Prabhakar",
+   "Gender": "Male",
+   "address": "Bombay",
+   "Phone no": "7889742569",
+   "Batch": " Batch 2020",
+   "Hostel": true
+  },
+  {
+   "Rollno": "1003",
+   "Name": "Sunil Saini",
+   "Gender": "Male",
+   "address": "Luckhnow",
+   "Phone no": "9988344756",
+   "Batch": " Batch 2020",
+   "Hostel": true
+  },
+  {
+   "Rollno": "1004",
+   "Name": "Ishita",
+   "Gender": "Female",
+   "address": "Chandigarh",
+   "Phone no": "1234567892",
+   "Batch": " Batch 2020",
+   "Hostel": false
+  }
+ ]
+}
